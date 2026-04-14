@@ -1,0 +1,6 @@
+Server corrupted_epsilon. ERROR: can't multiply sequence by non-int of type 'float'
+Server alpha-1: Availble power 2.5 - Overload
+Server alpha-2: Availble power 5.0 - Efficient
+Server beta-1: Availble power 1.25 - Overload
+Server beta-2: Availble power 1.25 - Overload
+Server omega-1: Availble power 15.0 - Efficient
