@@ -1,0 +1,27 @@
+{
+    "project_name": "Power_algorithm",
+    "version": "0.0.1",
+    "nodes": {
+        "alpha-1": {
+            "cores": 10,
+            "load": 0.75
+        },
+        "alpha-2": {
+            "cores": 10,
+            "load": 0.5
+        },
+        "beta-1": {
+            "cores": 5,
+            "load": 0.5
+        },
+        "beta-2": {
+            "cores": 5,
+            "load": 0.25
+        },
+        "omega-3": {
+            "cores": 30,
+            "load": 0.5
+        }
+    },
+    "debug_mode": true
+}
